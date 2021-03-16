@@ -13,5 +13,7 @@ https://pwr-solaar.github.io/Solaar/
 # Logiops
 Unofficial driver - meant to help with making MX Mouse goodies work
 
-https://github.com/PixlOne/logiops
-https://wiki.archlinux.org/index.php/Logitech_MX_Master#Logiops
+- https://github.com/PixlOne/logiops
+- https://wiki.archlinux.org/index.php/Logitech_MX_Master#Logiops
+
+[My config](./logid.cfg)
